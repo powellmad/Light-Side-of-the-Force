@@ -1,0 +1,40 @@
+{
+    "MasterQuotes": [
+        {
+            "mastertext": "You can do hard things! Use the Force!",
+            "yodatext": "Do hard things, you can! The Force you shall use."
+        },
+        {
+            "mastertext": "I believe in you, young padawan. Trust in your training.",
+            "yodatext": "Believe in you I do, young padawan. Trust in your training, you must."
+        },
+        {
+            "mastertext": "Have patience. When you move too quickly, you miss what's right in front of you.",
+            "yodatext": "Got this, you do!"
+        },
+        {
+            "mastertext": "Breathe in. Breathe out. What do you notice, padawan?",
+            "yodatext": "Take a deep breath. Notice "
+        },
+        {
+            "mastertext": "You much unlearn what you have learned. See through Shoshin, or Beginner's Mind",
+            "yodatext": "You must unlearn what you have learned. Use your Shoshin."
+        },
+        {
+            "mastertext": "You are a luminous being, capable of anything!",
+            "yodatext": "A luminous being are you. Capable of anything are you"
+        },
+        {
+            "mastertext": "Growth is growth, no matter how small.",
+            "yodatext": "Growth is grown, how small matters not."
+        },
+        {
+            "mastertext": "Empty space is not nothing; it is a powerful something. Learn to see it!",
+            "yodatext": "Nothing empty space is it; A powerful something it is. Learn to see it, you must."
+        },
+        {
+            "mastertext": "Your fear must be named before you can banish it.",
+            "yodatext": "Named your fear must be before banish it you can."
+        }
+    ]
+}
