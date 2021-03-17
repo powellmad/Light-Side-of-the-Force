@@ -1,49 +1,88 @@
 {
-    "MasterQuotes": [
-        {
-            "id": 1,
-            "mastertext": "You can do hard things! Use the Force!",
-            "yodatext": "Do hard things, you can! The Force you shall use."
-        },
-        {
-            "id": 2,
-            "mastertext": "I believe in you, young padawan. Trust in your training.",
-            "yodatext": "Believe in you I do, young padawan. Trust in your training, you must."
-        },
-        {
-            "id": 3,
-            "mastertext": "Have patience. When you move too quickly, you miss what's right in front of you.",
-            "yodatext": "Got this, you do!"
-        },
-        {
-            "id": 4,
-            "mastertext": "Breathe in. Breathe out. What do you notice, padawan?",
-            "yodatext": "Take a deep breath. Notice something new, you may. "
-        },
-        {
-            "id": 5,
-            "mastertext": "You much unlearn what you have learned. See through Shoshin, or Beginner's Mind",
-            "yodatext": "You must unlearn what you have learned. Use your Shoshin."
-        },
-        {
-            "id": 6,
-            "mastertext": "You are a luminous being, capable of anything!",
-            "yodatext": "A luminous being are you. Capable of anything are you"
-        },
-        {
-            "id": 7,
-            "mastertext": "Growth is growth, no matter how small.",
-            "yodatext": "Growth is grown, how small matters not."
-        },
-        {
-            "id": 8,
-            "mastertext": "Empty space is not nothing; it is a powerful something. Learn to see it!",
-            "yodatext": "Nothing empty space is it; A powerful something it is. Learn to see it, you must."
-        },
-        {
-            "id": 9,
-            "mastertext": "Your fear must be named before you can banish it.",
-            "yodatext": "Named your fear must be before banish it you can."
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Mad",
+      "email": "mad@mad.com",
+      "masterId": 2
+    },
+    {
+      "id": 2,
+      "name": "Emy",
+      "email": "me@me.com",
+      "masterId": 1
+    },
+    {
+      "email": "paddy@ireland.com",
+      "name": "Saint Patrick",
+      "id": 3
+    }
+  ],
+  "userNotes": [
+    {}
+  ],
+  "themes": [
+    {}
+  ],
+  "masters": [
+    {
+      "id": 1,
+      "name": "Obi Wan Kenobi",
+      "image": "#",
+      "about": "About Obi Wan"
+    },
+    {
+      "id": 2,
+      "name": "Anakin Skywalker",
+      "image": "#",
+      "about": "About Anakin"
+    }
+  ],
+  "quotes": [
+    {
+      "id": 1,
+      "mastertext": "You can do hard things! Use the Force!",
+      "yodatext": "Do hard things, you can! The Force you shall use."
+    },
+    {
+      "id": 2,
+      "mastertext": "I believe in you, young padawan. Trust in your training.",
+      "yodatext": "Believe in you I do, young padawan. Trust in your training, you must."
+    },
+    {
+      "id": 3,
+      "mastertext": "Have patience. When you move too quickly, you miss what's right in front of you.",
+      "yodatext": "Got this, you do!"
+    },
+    {
+      "id": 4,
+      "mastertext": "Breathe in. Breathe out. What do you notice, padawan?",
+      "yodatext": "Take a deep breath. Notice something new, you may. "
+    },
+    {
+      "id": 5,
+      "mastertext": "You much unlearn what you have learned. See through Shoshin, or Beginner's Mind",
+      "yodatext": "You must unlearn what you have learned. Use your Shoshin."
+    },
+    {
+      "id": 6,
+      "mastertext": "You are a luminous being, capable of anything!",
+      "yodatext": "A luminous being are you. Capable of anything are you"
+    },
+    {
+      "id": 7,
+      "mastertext": "Growth is growth, no matter how small.",
+      "yodatext": "Growth is grown, how small matters not."
+    },
+    {
+      "id": 8,
+      "mastertext": "Empty space is not nothing; it is a powerful something. Learn to see it!",
+      "yodatext": "Nothing empty space is it; A powerful something it is. Learn to see it, you must."
+    },
+    {
+      "id": 9,
+      "mastertext": "Your fear must be named before you can banish it.",
+      "yodatext": "Named your fear must be before banish it you can."
+    }
+  ]
 }
